@@ -2,12 +2,12 @@ module.exports = {
   siteMetadata: {
     title: 'Gatstrap',
     description: 'Gatsby starter for bootstrap a blog',
-    siteUrl: 'https://gatstrap.netlify.com',
+    siteUrl: 'https://bpmottathai.github.io/gatsby-starter-bootstrap',
     author: 'jaxx2104',
     twitter: 'jaxx2104',
     adsense: '',
   },
-  pathPrefix: '/gatsby-starter-bootstrap',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
