@@ -32,7 +32,6 @@ export const pageQuery = graphql`
       meta: siteMetadata {
         title
         description
-        url: siteUrl
         author
         twitter
         adsense
